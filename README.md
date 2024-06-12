@@ -43,6 +43,47 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 #Submission:
 Submit your document and GitHub repository link through the designated platform or email to the instructor by the specified deadline.
+Setting Up Your Developer Environment-Assignment 1 Answers
+
+Tasks Completed
+
+1.	Select Your Operating System (OS): 
+I have chosen to use Windows 11 for this project. I downloaded the Windows 11 installer from the official Microsoft website: https://www.microsoft.com/software-download/windows11
+
+2.	Install a Text Editor or Integrated Development Environment (IDE): 
+I have installed Visual Studio Code, which is a popular and versatile code editor. I downloaded it from the official Visual Studio Code website: https://code.visualstudio.com/Download
+
+3.	Set Up Version Control System: 
+I have installed Git and created a GitHub account to host my project repositories. I have initialized a Git repository for this project and made my first commit.
+
+4.	Install Necessary Programming Languages and Runtimes: 
+I have installed Python 3.9.12 from the official Python website: http://www.python.org. I have verified that the installation was successful and that I can run Python scripts from the command line.
+
+5.	Install Package Managers:
+ I have installed pip, the Python package manager, as part of the Python installation.
+
+6.	Configure a Database (MySQL):
+ I have downloaded and installed MySQL Installer version 5.7.39 from the official MySQL website: https://dev.mysql.com/downloads/windows/installer/5.7.html
+
+7.	Explore Extensions and Plugins:
+ I have explored various extensions and plugins for Visual Studio Code, such as the Python extension, Git integration, and code formatting tools.
+
+Challenges and Solutions
+
+During the setup process, I encountered a few challenges:
+
+1.	Configuring Git: 
+I had some initial difficulties setting up my Git credentials and connecting my local repository to the remote GitHub repository. I resolved this by following the step-by-step instructions on the GitHub website and consulting online resources.
+
+2.	Installing Python Packages: 
+When trying to install some Python packages using pip, I encountered version conflicts and compatibility issues. I overcame this by creating a virtual environment using the `venv` module and installing the packages within the virtual environment.
+
+3.	Navigating the Visual Studio Code Interface:
+As a new user of Visual Studio Code, I found the extensive customization options and plugin ecosystem to be slightly overwhelming at first. I addressed this by exploring the documentation, and watching tutorial videos.
+
+
+
+
 
 #Evaluation Criteria:**
 - Completeness and accuracy of setup documentation.
